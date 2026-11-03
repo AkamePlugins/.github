@@ -15,5 +15,7 @@ Plugins para servidores de Minecraft (Paper), hechos con cariño y probados en u
 | **[AkameAuctionPlus](https://github.com/AkamePlugins/AkameAuctionPlus)** | Addon de zAuctionHouse: compra rápida de un clic, catálogo con todos los objetos, transacciones, estadísticas y precio de venta en cada item. |
 | **[AkameSell](https://github.com/AkamePlugins/AkameSell)** | `/sell` estilo DonutSMP: mete tus items, mira el total en una esquina y pulsa para vender, con multiplicadores por rango. |
 | **[AkameRTP](https://github.com/AkamePlugins/AkameRTP)** | Teletransporte aleatorio con menú de mundos, cuenta atrás con animación y la cola `/rtpq` que empareja a dos jugadores. |
+| **[AkameAstros](https://github.com/AkamePlugins/AkameAstros)** | Moneda Astros que se gana por tiempo conectado, con tienda configurable, herramientas 3x3 y objetos que se autodestruyen. |
+| **[AkameEssentialsAddon](https://github.com/AkamePlugins/AkameEssentialsAddon)** | Addon de EssentialsX: casas con diálogos, `/baltop` con cabezas de jugador y estadísticas de cada jugador. |
 
 > Todos los plugins de la marca empiezan por **Akame**.
